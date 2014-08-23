@@ -1,0 +1,4 @@
+name: random-rename
+dependencies:
+  args: any
+  path: any
